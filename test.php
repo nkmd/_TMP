@@ -2,6 +2,7 @@
 
 echo 'test';
 
-echo 'ааааа 21';
+echo 'КИРИЛИЦА С GIT';
 
+?>
 
